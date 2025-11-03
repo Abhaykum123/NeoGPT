@@ -1,1 +1,1 @@
-# GPT_MODEL
+# NeoGPT
